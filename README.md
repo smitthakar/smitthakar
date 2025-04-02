@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm learning next.js**
 
-- 🧐 LinkedIn **https://www.linkedin.com/in/smit-thakar/**
+- 🧐 LinkedIn **https://www.linkedin.com/in/smit-thakar-6854bb249
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
